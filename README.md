@@ -1,4 +1,4 @@
 hybrid-biology
 ==============
 
-Biology model framework for future games
+Biology model library for future simulation games
